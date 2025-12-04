@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcI2/VEQqFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eloik\\source\\repos\\Mario Kart G923\\G923ToSwitch\\G923ToSwitch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eloik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eloik\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\eloik\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\eloik\\.nuget\\packages\\sharpdx.directinput\\4.2.0\\sharpdx.directinput.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

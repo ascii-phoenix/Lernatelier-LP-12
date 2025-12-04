@@ -1,0 +1,17 @@
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\bin\Debug\net10.0\Mario Kart G923.exe
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\bin\Debug\net10.0\Mario Kart G923.deps.json
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\bin\Debug\net10.0\Mario Kart G923.runtimeconfig.json
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\bin\Debug\net10.0\Mario Kart G923.dll
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\bin\Debug\net10.0\Mario Kart G923.pdb
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\bin\Debug\net10.0\HidSharp.dll
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.csproj.AssemblyReference.cache
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.AssemblyInfoInputs.cache
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.AssemblyInfo.cs
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.csproj.CoreCompileInputs.cache
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Ka.9AB269D1.Up2Date
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.dll
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\refint\Mario Kart G923.dll
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.pdb
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\Mario Kart G923.genruntimeconfig.cache
+C:\Users\eloik\source\repos\Mario Kart G923\Mario Kart G923\obj\Debug\net10.0\ref\Mario Kart G923.dll
