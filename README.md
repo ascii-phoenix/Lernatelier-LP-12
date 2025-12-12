@@ -18,3 +18,8 @@ Word/Outlook Add-in, das mit Ollama (z. B. Qwen2.5:3b) kommuniziert über .NET A
 - [ ] Dateiupload-Funktion planen  
 - [x] Antworten im Taskpane überprüfen
 Heute habe ich weiter am Word/Outlook Add-in gearbeitet, das über die Ollama API mit einem lokalen LLM kommuniziert. Ich habe mich darauf konzentriert, die API-Stabilität zu verbessern und die Kommunikation zwischen dem Add-in und dem Backend zuverlässiger zu machen. Ausserdem habe ich getestet, wie sich das Add-in in Word und Outlook verhält, wenn mehrere Anfragen nacheinander gesendet werden. Ziel war es, sicherzustellen, dass die Antworten korrekt im Taskpane angezeigt werden und die Verbindung zur lokalen Ollama-Instanz konstant bleibt.
+
+## 12.12.2025
+Heute habe ich joycontrol-ms (https://github.com/mart1nro/joycontrol
+) heruntergeladen, durchgelesen und angepasst. Da ich mein Raspberry Pi 4 B jedoch nicht dabei hatte, konnte ich es nicht ausprobieren.
+Den Rest der Stunde habe ich damit verbracht, Bewerbungen zu verschicken.
